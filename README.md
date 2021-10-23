@@ -6,4 +6,4 @@ Don't expect professional results - these printables were made for my use during
 * **Rocketbook-Letter-Narrow-Base-DoubleSided.pdf** - I have tested this paper with the RB app for Android and it scans, uploads and the handwriting OCR works fine (provided you have decent handwriting).  This has two pages, designed to be printed by **duplexing printers**, so that each page will have two sides.  Printers **without** a duplexer can still print this file, you'll just have the printing on a single side instead of two sides.
 * More coming!
 
-License: [**Creative Commons Zero v1.0 U!iversal**](License)
+License: [**Creative Commons Zero v1.0 Universal**](LICENSE)
